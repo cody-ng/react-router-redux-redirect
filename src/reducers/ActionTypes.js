@@ -1,0 +1,1 @@
+export const SET_REDIRECT_PATH = "SET_REDIRECT_PATH";
